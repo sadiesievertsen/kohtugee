@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochunooci.lijianzhao.com/sitemap.xml
